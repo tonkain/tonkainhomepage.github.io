@@ -1,0 +1,1413 @@
+[
+  {
+    "groupName": "SFEB",
+    "name": "HTML 4 / CSS",
+    "logo": [ "../../../assets/img/Training/HTML 4/htmlLogo.jpg", "../../../assets/img/Training/HTML 4/cssLogo.jpg" ],
+    "goal": "Minimum require, what will you able to do at the end of this workshop, Duration of the workshop?",
+    "description": "On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains.",
+    "praticePicture": [
+      "../../../assets/img/Training/HTML 4/HTML_practice.PNG",
+      "../../../assets/img/Training/HTML 4/CSS_practice1.PNG",
+      "../../../assets/img/Training/HTML 4/CSS_practice2.PNG",
+      "../../../assets/img/Training/HTML 4/CSS_practice3.PNG"
+    ],
+    "plan": [
+      {
+        "title": "HTML Planss",
+        "planItem": [
+          {
+            "item": "HTML Introduction",
+            "courseTime": 2
+          },
+          {
+            "item": "HTML Text",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "HTML Lists",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "HTML Links",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "HTML Tables",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "HTML Medias",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "What is a Mockup?",
+            "courseTime": 2
+          }
+        ]
+      },
+      {
+        "title": "CSS Plan",
+        "planItem": [
+          {
+            "item": "CSS Introduction",
+            "courseTime": 2
+          },
+          {
+            "item": "CSS Syntax and selectors",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "CSS Cascading and inheritance",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "CSS and the Box Model",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "Styling Text",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "More Selectors",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "Layout",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "Responsive Web Design",
+            "courseTime": 2,
+            "practiceTime": 2
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "groupName": "SFEB",
+    "name": "JavaScript",
+    "logo": [ "../../../assets/img/Training/Javascript/javascriptLogo.png" ],
+    "goal": "Minimum require, what will you able to do at the end of this workshop, Duration of the workshop?",
+    "description": "On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains.",
+    "praticePicture": [
+      "../../../assets/img/Training/Javascript/JavaScript_Practice1.PNG",
+      "../../../assets/img/Training/Javascript/JavaScript_Practice2.PNG",
+      "../../../assets/img/Training/Javascript/JavaScript_Practice3.PNG",
+      "../../../assets/img/Training/Javascript/JavaScript_Practice4.png"
+    ],
+    "plan": [
+      {
+        "title": "JavaScript Plan",
+        "planItem": [
+          {
+            "item": "JS Introduction",
+            "courseTime": 2
+          },
+          {
+            "item": "JS Basics",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "JS HTML DOM",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "JS Events",
+            "courseTime": 2,
+            "practiceTime": 2
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "groupName": "SFEB",
+    "name": "JQuery",
+    "logo": [ "../../../assets/img/Training/JQuery/jqueryLogo.png" ],
+    "goal": "Minimum require, what will you able to do at the end of this workshop, Duration of the workshop?",
+    "description": "On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains.",
+    "praticePicture": [
+      "../../../assets/img/Training/HTML 4/HTML_practice.PNG",
+      "../../../assets/img/Training/HTML 4/CSS_practice1.PNG",
+      "../../../assets/img/Training/HTML 4/CSS_practice2.PNG",
+      "../../../assets/img/Training/HTML 4/CSS_practice3.PNG"
+    ],
+    "plan": [
+      {
+        "title": "HTML Plan",
+        "planItem": [
+          {
+            "item": "HTML Introduction",
+            "courseTime": 2
+          },
+          {
+            "item": "HTML Text",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "HTML Lists",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "HTML Links",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "HTML Tables",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "HTML Medias",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "What is a Mockup?",
+            "courseTime": 2
+          }
+        ]
+      },
+      {
+        "title": "CSS Plan",
+        "planItem": [
+          {
+            "item": "CSS Introduction",
+            "courseTime": 2
+          },
+          {
+            "item": "CSS Syntax and selectors",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "CSS Cascading and inheritance",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "CSS and the Box Model",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "Styling Text",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "More Selectors",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "Layout",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "Responsive Web Design",
+            "courseTime": 2,
+            "practiceTime": 2
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "groupName": "SFEB",
+    "name": "AJAX",
+    "logo": [ "../../../assets/img/Training/AJAX/AjaxLogo.png" ],
+    "goal": "Minimum require, what will you able to do at the end of this workshop, Duration of the workshop?",
+    "description": "On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains.",
+    "praticePicture": [
+      "../../../assets/img/Training/HTML 4/HTML_practice.PNG",
+      "../../../assets/img/Training/HTML 4/CSS_practice1.PNG",
+      "../../../assets/img/Training/HTML 4/CSS_practice2.PNG",
+      "../../../assets/img/Training/HTML 4/CSS_practice3.PNG"
+    ],
+    "plan": [
+      {
+        "title": "HTML Plan",
+        "planItem": [
+          {
+            "item": "HTML Introduction",
+            "courseTime": 2
+          },
+          {
+            "item": "HTML Text",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "HTML Lists",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "HTML Links",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "HTML Tables",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "HTML Medias",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "What is a Mockup?",
+            "courseTime": 2
+          }
+        ]
+      },
+      {
+        "title": "CSS Plan",
+        "planItem": [
+          {
+            "item": "CSS Introduction",
+            "courseTime": 2
+          },
+          {
+            "item": "CSS Syntax and selectors",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "CSS Cascading and inheritance",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "CSS and the Box Model",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "Styling Text",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "More Selectors",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "Layout",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "Responsive Web Design",
+            "courseTime": 2,
+            "practiceTime": 2
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "groupName": "SFEA",
+    "name": "Bootstrap",
+    "logo": [ "../../../assets/img/Training/Bootstrap/bootstrapLogo.png" ],
+    "goal": "Minimum require, what will you able to do at the end of this workshop, Duration of the workshop?",
+    "description": "On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains.",
+    "praticePicture": [
+      "../../../assets/img/Training/HTML 4/HTML_practice.PNG",
+      "../../../assets/img/Training/HTML 4/CSS_practice1.PNG",
+      "../../../assets/img/Training/HTML 4/CSS_practice2.PNG",
+      "../../../assets/img/Training/HTML 4/CSS_practice3.PNG"
+    ],
+    "plan": [
+      {
+        "title": "HTML Plan",
+        "planItem": [
+          {
+            "item": "HTML Introduction",
+            "courseTime": 2
+          },
+          {
+            "item": "HTML Text",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "HTML Lists",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "HTML Links",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "HTML Tables",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "HTML Medias",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "What is a Mockup?",
+            "courseTime": 2
+          }
+        ]
+      },
+      {
+        "title": "CSS Plan",
+        "planItem": [
+          {
+            "item": "CSS Introduction",
+            "courseTime": 2
+          },
+          {
+            "item": "CSS Syntax and selectors",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "CSS Cascading and inheritance",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "CSS and the Box Model",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "Styling Text",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "More Selectors",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "Layout",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "Responsive Web Design",
+            "courseTime": 2,
+            "practiceTime": 2
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "groupName": "SFEA",
+    "name": "JSON",
+    "logo": [ "../../../assets/img/Training/JSON/jsonLogo.png" ],
+    "goal": "Minimum require, what will you able to do at the end of this workshop, Duration of the workshop?",
+    "description": "On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains.",
+    "praticePicture": [
+      "../../../assets/img/Training/HTML 4/HTML_practice.PNG",
+      "../../../assets/img/Training/HTML 4/CSS_practice1.PNG",
+      "../../../assets/img/Training/HTML 4/CSS_practice2.PNG",
+      "../../../assets/img/Training/HTML 4/CSS_practice3.PNG"
+    ],
+    "plan": [
+      {
+        "title": "HTML Plan",
+        "planItem": [
+          {
+            "item": "HTML Introduction",
+            "courseTime": 2
+          },
+          {
+            "item": "HTML Text",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "HTML Lists",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "HTML Links",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "HTML Tables",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "HTML Medias",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "What is a Mockup?",
+            "courseTime": 2
+          }
+        ]
+      },
+      {
+        "title": "CSS Plan",
+        "planItem": [
+          {
+            "item": "CSS Introduction",
+            "courseTime": 2
+          },
+          {
+            "item": "CSS Syntax and selectors",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "CSS Cascading and inheritance",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "CSS and the Box Model",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "Styling Text",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "More Selectors",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "Layout",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "Responsive Web Design",
+            "courseTime": 2,
+            "practiceTime": 2
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "groupName": "SFEA",
+    "name": "TypeScript and Visual Studio Code",
+    "logo": [ "../../../assets/img/Training/TypeScript/typescriptLogo.png", "../../../assets/img/Training/TypeScript/visualStudioCodeLogo.png" ],
+    "goal": "Minimum require, what will you able to do at the end of this workshop, Duration of the workshop?",
+    "description": "On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains.",
+    "praticePicture": [
+      "../../../assets/img/Training/HTML 4/HTML_practice.PNG",
+      "../../../assets/img/Training/HTML 4/CSS_practice1.PNG",
+      "../../../assets/img/Training/HTML 4/CSS_practice2.PNG",
+      "../../../assets/img/Training/HTML 4/CSS_practice3.PNG"
+    ],
+    "plan": [
+      {
+        "title": "HTML Plan",
+        "planItem": [
+          {
+            "item": "HTML Introduction",
+            "courseTime": 2
+          },
+          {
+            "item": "HTML Text",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "HTML Lists",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "HTML Links",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "HTML Tables",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "HTML Medias",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "What is a Mockup?",
+            "courseTime": 2
+          }
+        ]
+      },
+      {
+        "title": "CSS Plan",
+        "planItem": [
+          {
+            "item": "CSS Introduction",
+            "courseTime": 2
+          },
+          {
+            "item": "CSS Syntax and selectors",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "CSS Cascading and inheritance",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "CSS and the Box Model",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "Styling Text",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "More Selectors",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "Layout",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "Responsive Web Design",
+            "courseTime": 2,
+            "practiceTime": 2
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "groupName": "SFEA",
+    "name": "Angular",
+    "logo": [ "../../../assets/img/Training/Angular/angularLogo.png" ],
+    "goal": "Minimum require, what will you able to do at the end of this workshop, Duration of the workshop?",
+    "description": "On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains.",
+    "praticePicture": [
+      "../../../assets/img/Training/HTML 4/HTML_practice.PNG",
+      "../../../assets/img/Training/HTML 4/CSS_practice1.PNG",
+      "../../../assets/img/Training/HTML 4/CSS_practice2.PNG",
+      "../../../assets/img/Training/HTML 4/CSS_practice3.PNG"
+    ],
+    "plan": [
+      {
+        "title": "HTML Plan",
+        "planItem": [
+          {
+            "item": "HTML Introduction",
+            "courseTime": 2
+          },
+          {
+            "item": "HTML Text",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "HTML Lists",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "HTML Links",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "HTML Tables",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "HTML Medias",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "What is a Mockup?",
+            "courseTime": 2
+          }
+        ]
+      },
+      {
+        "title": "CSS Plan",
+        "planItem": [
+          {
+            "item": "CSS Introduction",
+            "courseTime": 2
+          },
+          {
+            "item": "CSS Syntax and selectors",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "CSS Cascading and inheritance",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "CSS and the Box Model",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "Styling Text",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "More Selectors",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "Layout",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "Responsive Web Design",
+            "courseTime": 2,
+            "practiceTime": 2
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "groupName": "SFEA",
+    "name": "HTML 5/CSS3",
+    "logo": [ "../../../assets/img/Training/HTML 5/html5css3Logo.png" ],
+    "goal": "Minimum require, what will you able to do at the end of this workshop, Duration of the workshop?",
+    "description": "On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains.",
+    "praticePicture": [
+      "../../../assets/img/Training/HTML 4/HTML_practice.PNG",
+      "../../../assets/img/Training/HTML 4/CSS_practice1.PNG",
+      "../../../assets/img/Training/HTML 4/CSS_practice2.PNG",
+      "../../../assets/img/Training/HTML 4/CSS_practice3.PNG"
+    ],
+    "plan": [
+      {
+        "title": "HTML Plan",
+        "planItem": [
+          {
+            "item": "HTML Introduction",
+            "courseTime": 2
+          },
+          {
+            "item": "HTML Text",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "HTML Lists",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "HTML Links",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "HTML Tables",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "HTML Medias",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "What is a Mockup?",
+            "courseTime": 2
+          }
+        ]
+      },
+      {
+        "title": "CSS Plan",
+        "planItem": [
+          {
+            "item": "CSS Introduction",
+            "courseTime": 2
+          },
+          {
+            "item": "CSS Syntax and selectors",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "CSS Cascading and inheritance",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "CSS and the Box Model",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "Styling Text",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "More Selectors",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "Layout",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "Responsive Web Design",
+            "courseTime": 2,
+            "practiceTime": 2
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "groupName": "SBEA",
+    "name": "ASP .Net Core",
+    "logo": [ "../../../assets/img/Training/ASP.Net/aspnetcoreLogo.png" ],
+    "goal": "Minimum require, what will you able to do at the end of this workshop, Duration of the workshop?",
+    "description": "On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains.",
+    "praticePicture": [
+      "../../../assets/img/Training/HTML 4/HTML_practice.PNG",
+      "../../../assets/img/Training/HTML 4/CSS_practice1.PNG",
+      "../../../assets/img/Training/HTML 4/CSS_practice2.PNG",
+      "../../../assets/img/Training/HTML 4/CSS_practice3.PNG"
+    ],
+    "plan": [
+      {
+        "title": "HTML Plan",
+        "planItem": [
+          {
+            "item": "HTML Introduction",
+            "courseTime": 2
+          },
+          {
+            "item": "HTML Text",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "HTML Lists",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "HTML Links",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "HTML Tables",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "HTML Medias",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "What is a Mockup?",
+            "courseTime": 2
+          }
+        ]
+      },
+      {
+        "title": "CSS Plan",
+        "planItem": [
+          {
+            "item": "CSS Introduction",
+            "courseTime": 2
+          },
+          {
+            "item": "CSS Syntax and selectors",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "CSS Cascading and inheritance",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "CSS and the Box Model",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "Styling Text",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "More Selectors",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "Layout",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "Responsive Web Design",
+            "courseTime": 2,
+            "practiceTime": 2
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "groupName": "SBEA",
+    "name": "MySQL",
+    "logo": [ "../../../assets/img/Training/MySQL/mysqlLogo.png" ],
+    "goal": "Minimum require, what will you able to do at the end of this workshop, Duration of the workshop?",
+    "description": "On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains.",
+    "praticePicture": [
+      "../../../assets/img/Training/HTML 4/HTML_practice.PNG",
+      "../../../assets/img/Training/HTML 4/CSS_practice1.PNG",
+      "../../../assets/img/Training/HTML 4/CSS_practice2.PNG",
+      "../../../assets/img/Training/HTML 4/CSS_practice3.PNG"
+    ],
+    "plan": [
+      {
+        "title": "HTML Plan",
+        "planItem": [
+          {
+            "item": "HTML Introduction",
+            "courseTime": 2
+          },
+          {
+            "item": "HTML Text",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "HTML Lists",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "HTML Links",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "HTML Tables",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "HTML Medias",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "What is a Mockup?",
+            "courseTime": 2
+          }
+        ]
+      },
+      {
+        "title": "CSS Plan",
+        "planItem": [
+          {
+            "item": "CSS Introduction",
+            "courseTime": 2
+          },
+          {
+            "item": "CSS Syntax and selectors",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "CSS Cascading and inheritance",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "CSS and the Box Model",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "Styling Text",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "More Selectors",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "Layout",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "Responsive Web Design",
+            "courseTime": 2,
+            "practiceTime": 2
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "groupName": "SBEA",
+    "name": "Entity Framework Core",
+    "logo": [ "../../../assets/img/Training/Entity Framework/entityframeworkLogo.png" ],
+    "goal": "Minimum require, what will you able to do at the end of this workshop, Duration of the workshop?",
+    "description": "On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains.",
+    "praticePicture": [
+      "../../../assets/img/Training/HTML 4/HTML_practice.PNG",
+      "../../../assets/img/Training/HTML 4/CSS_practice1.PNG",
+      "../../../assets/img/Training/HTML 4/CSS_practice2.PNG",
+      "../../../assets/img/Training/HTML 4/CSS_practice3.PNG"
+    ],
+    "plan": [
+      {
+        "title": "HTML Plan",
+        "planItem": [
+          {
+            "item": "HTML Introduction",
+            "courseTime": 2
+          },
+          {
+            "item": "HTML Text",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "HTML Lists",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "HTML Links",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "HTML Tables",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "HTML Medias",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "What is a Mockup?",
+            "courseTime": 2
+          }
+        ]
+      },
+      {
+        "title": "CSS Plan",
+        "planItem": [
+          {
+            "item": "CSS Introduction",
+            "courseTime": 2
+          },
+          {
+            "item": "CSS Syntax and selectors",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "CSS Cascading and inheritance",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "CSS and the Box Model",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "Styling Text",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "More Selectors",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "Layout",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "Responsive Web Design",
+            "courseTime": 2,
+            "practiceTime": 2
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "groupName": "SBEA",
+    "name": "IIS",
+    "logo": [ "../../../assets/img/Training/IIS/iisLogo.png" ],
+    "goal": "Minimum require, what will you able to do at the end of this workshop, Duration of the workshop?",
+    "description": "On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains.",
+    "praticePicture": [
+      "../../../assets/img/Training/HTML 4/HTML_practice.PNG",
+      "../../../assets/img/Training/HTML 4/CSS_practice1.PNG",
+      "../../../assets/img/Training/HTML 4/CSS_practice2.PNG",
+      "../../../assets/img/Training/HTML 4/CSS_practice3.PNG"
+    ],
+    "plan": [
+      {
+        "title": "HTML Plan",
+        "planItem": [
+          {
+            "item": "HTML Introduction",
+            "courseTime": 2
+          },
+          {
+            "item": "HTML Text",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "HTML Lists",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "HTML Links",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "HTML Tables",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "HTML Medias",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "What is a Mockup?",
+            "courseTime": 2
+          }
+        ]
+      },
+      {
+        "title": "CSS Plan",
+        "planItem": [
+          {
+            "item": "CSS Introduction",
+            "courseTime": 2
+          },
+          {
+            "item": "CSS Syntax and selectors",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "CSS Cascading and inheritance",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "CSS and the Box Model",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "Styling Text",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "More Selectors",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "Layout",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "Responsive Web Design",
+            "courseTime": 2,
+            "practiceTime": 2
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "groupName": "SBEA",
+    "name": "JSON.NET",
+    "logo": [ "../../../assets/img/Training/JSON.net/jsonLogo.png" ],
+    "goal": "Minimum require, what will you able to do at the end of this workshop, Duration of the workshop?",
+    "description": "On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains.",
+    "praticePicture": [
+      "../../../assets/img/Training/HTML 4/HTML_practice.PNG",
+      "../../../assets/img/Training/HTML 4/CSS_practice1.PNG",
+      "../../../assets/img/Training/HTML 4/CSS_practice2.PNG",
+      "../../../assets/img/Training/HTML 4/CSS_practice3.PNG"
+    ],
+    "plan": [
+      {
+        "title": "HTML Plan",
+        "planItem": [
+          {
+            "item": "HTML Introduction",
+            "courseTime": 2
+          },
+          {
+            "item": "HTML Text",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "HTML Lists",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "HTML Links",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "HTML Tables",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "HTML Medias",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "What is a Mockup?",
+            "courseTime": 2
+          }
+        ]
+      },
+      {
+        "title": "CSS Plan",
+        "planItem": [
+          {
+            "item": "CSS Introduction",
+            "courseTime": 2
+          },
+          {
+            "item": "CSS Syntax and selectors",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "CSS Cascading and inheritance",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "CSS and the Box Model",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "Styling Text",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "More Selectors",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "Layout",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "Responsive Web Design",
+            "courseTime": 2,
+            "practiceTime": 2
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "groupName": "SBEB",
+    "name": "C#",
+    "logo": [ "../../../assets/img/Training/CSharp/CSharpLogo.png" ],
+    "goal": "Minimum require, what will you able to do at the end of this workshop, Duration of the workshop?",
+    "description": "On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains.",
+    "praticePicture": [
+      "../../../assets/img/Training/HTML 4/HTML_practice.PNG",
+      "../../../assets/img/Training/HTML 4/CSS_practice1.PNG",
+      "../../../assets/img/Training/HTML 4/CSS_practice2.PNG",
+      "../../../assets/img/Training/HTML 4/CSS_practice3.PNG"
+    ],
+    "plan": [
+      {
+        "title": "HTML Plan",
+        "planItem": [
+          {
+            "item": "HTML Introduction",
+            "courseTime": 2
+          },
+          {
+            "item": "HTML Text",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "HTML Lists",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "HTML Links",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "HTML Tables",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "HTML Medias",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "What is a Mockup?",
+            "courseTime": 2
+          }
+        ]
+      },
+      {
+        "title": "CSS Plan",
+        "planItem": [
+          {
+            "item": "CSS Introduction",
+            "courseTime": 2
+          },
+          {
+            "item": "CSS Syntax and selectors",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "CSS Cascading and inheritance",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "CSS and the Box Model",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "Styling Text",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "More Selectors",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "Layout",
+            "courseTime": 2,
+            "practiceTime": 2
+          },
+          {
+            "item": "Responsive Web Design",
+            "courseTime": 2,
+            "practiceTime": 2
+          }
+        ]
+      }
+    ]
+  }
+]

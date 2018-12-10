@@ -1,0 +1,62 @@
+[
+    {
+        "title": "ECG Water resistant",
+        "date": "May 4, 2018",
+        "journal": "Journal of america",
+        "authors": [
+            "Tueche Fabrice: tuchfab@yahoo.fr",
+            "Njike Landry: landrynjike@yahoo.fr"
+        ],
+        "description": [
+            "B.Sc. in Mechanical/Electrical Engineering, Management of Technology, or equivalent",
+            "PMP certification",
+            "Agile and traditional project management"
+        ],
+        "image": [
+            "../../../assets/img/Training/HTML 4/HTML_practice.PNG",
+            "../../../assets/img/Training/HTML 4/CSS_practice1.PNG",
+            "../../../assets/img/Training/HTML 4/CSS_practice2.PNG",
+            "../../../assets/img/Training/HTML 4/CSS_practice3.PNG"
+        ]
+    },
+    {
+        "title": "ECG Lead",
+        "date": "May 4, 2018",
+        "journal": "Journal of america",
+        "authors": [
+            "Tueche Fabrice: tuchfab@yahoo.fr",
+            "Njike Landry: landrynjike@yahoo.fr"
+        ],
+        "description": [
+            "B.Sc. in Mechanical/Electrical Engineering, Management of Technology, or equivalent",
+            "PMP certification",
+            "Agile and traditional project management"
+        ],
+        "image": [
+            "../../../assets/img/Training/HTML 4/HTML_practice.PNG",
+            "../../../assets/img/Training/HTML 4/CSS_practice1.PNG",
+            "../../../assets/img/Training/HTML 4/CSS_practice2.PNG"
+        ]
+    },
+    {
+        "title": "ECG With MP3",
+        "date": "May 4, 2018",
+        "journal": "Journal of america",
+        "authors": [
+            "Tueche Fabrice: tuchfab@yahoo.fr",
+            "Njike Landry: landrynjike@yahoo.fr"
+        ],
+        "description": [
+            "B.Sc. in Mechanical/Electrical Engineering, Management of Technology, or equivalent",
+            "PMP certification",
+            "Agile and traditional project management"
+        ],
+        "image": [
+            "../../../assets/img/Training/HTML 4/HTML_practice.PNG",
+            "../../../assets/img/Training/HTML 4/CSS_practice1.PNG",
+            "../../../assets/img/Training/HTML 4/CSS_practice2.PNG",
+            "../../../assets/img/Training/HTML 4/CSS_practice3.PNG",
+            "../../../assets/img/Training/HTML 4/CSS_practice2.PNG"
+        ]
+    }
+]

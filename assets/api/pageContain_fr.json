@@ -1,0 +1,508 @@
+[
+  {
+    "id": "meta",
+    "meta": {
+      "title": "TonKaIn HomePage",
+      "favicon": "assets/img/logo/logo.jpg",
+      "meta": [
+        {
+          "name": "author",
+          "content": "Merlin Tonka, Njike Landry, Fabrice Tueche"
+        },
+        {
+          "name": "keywords",
+          "content": "Breast Cancer, CAD, Mammography, ScreenPoint"
+        },
+        {
+          "name": "description",
+          "content": "ScreenPoint is a CAD company developing computer aided detection for early detection of breast cancer. Founders are Nico Karssemeijer and Mike Brady."
+        },
+        {
+          "name": "viewport",
+          "content": "width=device-width, initial-scale=1.0"
+        },
+        {
+          "name": "mobileOptimized",
+          "content": "width"
+        },
+        {
+          "name": "handheldFriendly",
+          "content": "true"
+        },
+        {
+          "name": "apple-mobile-web-app-capable",
+          "content": "yes"
+        },
+        {
+          "name": "apple-mobile-web-app-status-bar-style",
+          "content": "black-translucent"
+        },
+        {
+          "name": "format-detection",
+          "content": "telephone=no"
+        }
+      ]
+    }
+  },
+  {
+    "pageName": "Acceuil",
+    "id": "home",
+    "title": "TonkaIn",
+    "subTitle": [ "Produits du développemnt matériel et logiciel" ],
+    "titleImage": "assets/img/Home_background/World_.jpg",
+    "category": [
+      {
+        "id": "card",
+        "priorite": 1,
+        "statut": 1,
+        "article": [
+          {
+            "id": "zoom",
+            "priorite": 3,
+            "statut": 1,
+            "title": "Career",
+            "subTitle": [ "jkldsiha78san,kjyxciuyxcjhvguä lkshadus oöaosidj jlks" ]
+          }
+        ]
+      },
+      {
+        "id": "card",
+        "priorite": 2,
+        "statut": 1,
+        "article": [
+          {
+            "id": "zoom",
+            "priorite": 1,
+            "statut": 1,
+            "subTitle": [ "Training" ],
+            "contenu": [ "We provide training for hardware and software development, quality assurance and testing, patent analysis and competitor analysis. Choose your personal training from TonKaIn traing programm." ],
+            "image": [
+              {
+                "src": "assets/img/Training/Library_books_Verdunkeln.jpg",
+                "alt": "library",
+                "int_link": "training",
+                "tooltip": "read more"
+              }
+            ]
+          },
+          {
+            "id": "zoom",
+            "priorite": 2,
+            "statut": 1,
+            "subTitle": [ "Company" ],
+            "contenu": [ "TonkaIn is a start up specialized in patent and competitor analysis to find out the flow of technology which can prevent infringement from occuring, wchih would save litigation expenses and compensation of damages." ],
+            "image": [
+              {
+                "src": "assets/img/Company/Hardware_Board.jpg",
+                "alt": "hardware",
+                "int_link": "company",
+                "tooltip": "read more"
+              }
+            ]
+          },
+          {
+            "id": "zoom",
+            "priorite": 3,
+            "statut": 1,
+            "subTitle": [ "career" ],
+            "contenu": [ "jkldsiha78san,kjyxciuyxcjhvguä lkshadus oöaosidj jlks llsajd kasdas dasd klskid joqiwnn niosa osiad ioopsid kijdsa klxyx sadh nsjkad sadas. sdj aspdoasd klxnckjyx laösijds jkasnd kööaojsd klömycx kasjd, dkjfösda jsadlfji" ],
+            "image": [
+              {
+                "src": "assets/img/Career/Mathematics_and_roboter_2.jpg",
+                "alt": "roboter",
+                "int_link": "career",
+                "tooltip": "read more"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "card",
+        "priorite": 3,
+        "statut": 1,
+        "article": [
+          {
+            "id": "zoom",
+            "priorite": 3,
+            "statut": 1,
+            "title": "Applications View",
+            "subTitle": [ "TonkaIn Have developed some helpfull projects going from softare to electroniques projects.', 'Here, we display some important view of our projects" ]
+          }
+        ]
+      },
+      {
+        "id": "carousel",
+        "priorite": 10,
+        "statut": 1,
+        "article": [
+          {
+            "id": "delay",
+            "priorite": 1,
+            "statut": 0,
+            "subTitle": [ "First slide label" ],
+            "contenu": [ "Nulla vitae elit libero, a pharetra augue mollis interdum." ],
+            "image": [
+              {
+                "src": "assets/img/Career/Mathematics_and_roboter_2.jpg",
+                "alt": "roboter"
+              }
+            ],
+            "read_more": {
+              "title": "Read more",
+              "ext_link": "#"
+            }
+          },
+          {
+            "priorite": 2,
+            "statut": 1,
+            "subTitle": [ "Second slide label" ],
+            "contenu": [ "Lorem ipsum dolor sit amet, consectetur adipiscing elit." ],
+            "image": [
+              {
+                "src": "assets/img/Company/Hardware_Board.jpg",
+                "alt": "hardware"
+              }
+            ],
+            "read_more": {
+              "title": "Read more",
+              "ext_link": "#"
+            }
+          },
+          {
+            "id": "delay",
+            "priorite": 3,
+            "statut": 1,
+            "subTitle": [ "Third slide label" ],
+            "contenu": [ "Praesent commodo cursus magna, vel scelerisque nisl consectetur." ],
+            "image": [
+              {
+                "src": "assets/img/Training/Library_books_Verdunkeln.jpg",
+                "alt": "library"
+              }
+            ],
+            "read_more": {
+              "title": "Read more",
+              "ext_link": "#"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "pageName": "Formations",
+    "id": "training",
+    "title": "UDM",
+    "titleImage": "../../assets/img/Training/Library_books_Verdunkeln.jpg",
+    "category": [
+      {
+        "id": "SFE",
+        "title": "Developpement logiciel front end",
+        "priorite": 1,
+        "statut": 1,
+        "date": "July 2, 2018",
+        "textDesc": "Do you want to learn how to develop Back end applications? We will show you how to get there! On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains.",
+        "article": [
+          {
+            "id": "SFEB",
+            "title": "Débutant: prise en main",
+            "contenu": [ "Minimum require, what will you able to do at the end of this workshop, Duration of the workshop?" ],
+            "priorite": 1,
+            "statut": 1,
+            "date": "July 2, 2018"
+          },
+          {
+            "id": "SFEA",
+            "title": "Advanced developers: Hands-on Workshops",
+            "contenu": [ "Now that you have the basic knowledge of front end applications development, we will show how develop state of the applications using the latest technologies." ],
+            "priorite": 1,
+            "statut": 1,
+            "date": "July 2, 2018"
+          }
+        ]
+
+      },
+      {
+        "id": "SBE",
+        "title": "Software Back End Development",
+        "priorite": 1,
+        "statut": 1,
+        "date": "July 2, 2018",
+        "textDesc": "Do you want to learn how to develop Back end applications? We will show you how to get there! On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains.",
+        "article": [
+          {
+            "id": "SBEB",
+            "title": "Beginner: Hands-on Workshops",
+            "contenu": [ "Minimum require, what will you able to do at the end of this workshop, Duration of the workshop?" ],
+            "priorite": 1,
+            "statut": 1,
+            "date": "July 2, 2018"
+          },
+          {
+            "id": "SBEA",
+            "title": "Advanced developers: Hands-on Workshops",
+            "contenu": [ "Now that you have the basic knowledge of front end applications development, we will show how develop state of the applications using the latest technologies." ],
+            "priorite": 1,
+            "statut": 1,
+            "date": "July 2, 2018"
+          }
+        ]
+
+      }
+    ]
+  },
+  {
+    "pageName": "Entreprise",
+    "id": "company",
+    "title": "TonkaIn",
+    "subTitle": [ "Research and development for innovation software solution and systems" ],
+    "titleImage": "assets/img/Company/Hardware_Board.jpg",
+    "category": [
+      {
+        "id": "carousel",
+        "priorite": 10,
+        "statut": 1,
+        "article": [
+          {
+            "id": "delay",
+            "priorite": 1,
+            "statut": 0,
+            "subTitle": [ "First slide label" ],
+            "contenu": [ "Nulla vitae elit libero, a pharetra augue mollis interdum." ],
+            "image": [
+              {
+                "src": "assets/img/Career/Mathematics_and_roboter_2.jpg",
+                "alt": "roboter"
+              }
+            ],
+            "read_more": {
+              "title": "Read more",
+              "ext_link": "#"
+            }
+          },
+          {
+            "priorite": 2,
+            "statut": 1,
+            "subTitle": [ "Second slide label" ],
+            "contenu": [ "Lorem ipsum dolor sit amet, consectetur adipiscing elit." ],
+            "image": [
+              {
+                "src": "assets/img/Company/Hardware_Board.jpg",
+                "alt": "hardware"
+              }
+            ],
+            "read_more": {
+              "title": "Read more",
+              "ext_link": "#"
+            }
+          },
+          {
+            "id": "delay",
+            "priorite": 3,
+            "statut": 1,
+            "subTitle": [ "Third slide label" ],
+            "contenu": [ "Praesent commodo cursus magna, vel scelerisque nisl consectetur." ],
+            "image": [
+              {
+                "src": "assets/img/Training/Library_books_Verdunkeln.jpg",
+                "alt": "library"
+              }
+            ],
+            "read_more": {
+              "title": "Read more",
+              "ext_link": "#"
+            }
+          }
+        ]
+      },
+      {
+        "id": "card",
+        "priorite": 2,
+        "statut": 1,
+        "article": [
+          {
+            "id": "polaroid",
+            "priorite": 1,
+            "statut": 1,
+            "subTitle": [ "TonKaIn at a glance" ],
+            "contenu": [ "<b>Foundation:</b> 2018', '<b>CTO: </b> XXX', '<b>CFO: </b> XX" ],
+            "image": [
+              {
+                "src": "https://previews.123rf.com/images/eteimaging/eteimaging1111/eteimaging111100009/11170895-figurines-representing-people-exchange-ideas-all-around-the-world.jpg",
+                "alt": "TonkaIn glance image"
+              }
+            ],
+            "read_more": {
+              "title": "Read more",
+              "textDesc": [
+                "<b>Business field:</b> Development of integrated circuits and sofware solutions",
+                "<b>Headquarter: </b> Post Office Box Bangangte-Cameroon",
+                "<b>Research & Development: </b> Bangangte-Cameroon"
+              ]
+            }
+          },
+          {
+            "id": "polaroid",
+            "priorite": 1,
+            "statut": 1,
+            "subTitle": [ "Vision" ],
+            "contenu": [ "At TonkaIn, we create the future. we are working now to develope the tools and platforms that enable tomorrow users and organizations to survive and thrive." ],
+            "image": [
+              {
+                "src": "https://previews.123rf.com/images/stuartphoto/stuartphoto1609/stuartphoto160901222/62324663-innovation-words-representing-ideas-transformation-and-ideas.jpg",
+                "alt": "vision image"
+              }
+            ]
+          },
+          {
+            "id": "polaroid",
+            "priorite": 1,
+            "statut": 1,
+            "subTitle": [ "History and background of the company" ],
+            "contenu": [ "TonkaIn was created in 2018 as rechearch and development company in the fields of integrated circuits and information technology fields." ],
+            "image": [
+              {
+                "src": "https://previews.123rf.com/images/yongheng1996/yongheng19961508/yongheng1996150800262/44233606-a-clock-representing-the-passage-of-time-the-importance-of-time.jpg",
+                "alt": "history image"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "card",
+        "priorite": 1,
+        "statut": 1,
+        "article": [
+          {
+            "id": "zoom",
+            "priorite": 3,
+            "statut": 1,
+            "title": "TonKaIn focus",
+            "subTitle": [ "TonkaIn xöas kasodjas aslödkas sdksaüd lajdas hwewe mxlckxc kkcnxyoc lmlkasdas dsfmlsdsalkdsad" ]
+          }
+        ]
+      },
+      {
+        "id": "card",
+        "priorite": 3,
+        "statut": 1,
+        "article": [
+          {
+            "id": "zoom",
+            "priorite": 3,
+            "statut": 1,
+            "title": "TonkaIn Overview",
+            "subTitle": [
+              "kjasdjasdköläkom xcy,.cklyxj lasjdopqwid mdläasd. sandas, jjjkah sdahsa asdas, jhsd.lijsad asdasd.",
+              "Here, we display some important view of our projects"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "pageName": "Carrière",
+    "id": "career",
+    "title": "Do you love R&D? Come and grow with us!",
+    "titleImage": "../../assets/img/Career/background-top.jpg",
+    "category": [
+      {
+        "id": "TonkaInDesc",
+        "title": "TonkaIn description",
+        "priorite": 1,
+        "statut": 1,
+        "date": "July 6, 2018",
+        "textDesc": "Describe the evolution policy within the company.<br>We will show you how to get there! On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains."
+      },
+      {
+        "id": "WorkAtTonkaIn",
+        "title": "Work at TonkaIn",
+        "priorite": 1,
+        "statut": 1,
+        "date": "July 6, 2018",
+        "article": [
+          {
+            "id": "Why",
+            "title": "Why TonkaIn?",
+            "contenu": [ "In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains." ],
+            "image": [ { "src": "../../assets/img/Career/question.jpg" } ],
+            "priorite": 1,
+            "statut": 1,
+            "date": "July 6, 2018"
+          },
+          {
+            "id": "What",
+            "title": "What we offer?",
+            "contenu": [ "In a free hour, when our power of choice:", "is untrammelled and when nothing prevents our being", "able to do what we", "like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently", "occur that pleasures have to be repudiated", "is untrammelled and when nothing prevents our being" ],
+            "image": [ { "src": "../../assets/img/Career/we_offer.jpg" } ],
+            "priorite": 1,
+            "statut": 1,
+            "date": "July 6, 2018"
+          },
+          {
+            "id": "Who",
+            "title": "Who are we looking for?",
+            "contenu": [ "In a free hour, when our power of choice:", "is untrammelled and when nothing prevents our being", "able to do what we", "like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently", "occur that pleasures have to be repudiated" ],
+            "image": [ { "src": "../../assets/img/Career/looking_for.png" } ],
+            "priorite": 1,
+            "statut": 1,
+            "date": "July 6, 2018"
+          }
+        ]
+      },
+      {
+        "id": "jobs",
+        "title": "TonkaIn Position",
+        "priorite": 1,
+        "statut": 1,
+        "date": "July 6, 2018"
+      }
+    ]
+  },
+  {
+    "pageName": "Papers",
+    "id": "papers",
+    "title": "Do you love R&D? Come and grow with us!",
+    "titleImage": "../../assets/img/Career/background-top.jpg",
+    "category": [
+      {
+        "id": "TonkaInDesc",
+        "title": "TonkaIn description",
+        "priorite": 1,
+        "statut": 1,
+        "date": "July 6, 2018",
+        "textDesc": "Describe the evolution policy within the company.<br>We will show you how to get there! On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains."
+      },
+      {
+        "id": "papers",
+        "title": "TonkaIn Papers",
+        "priorite": 1,
+        "statut": 1,
+        "date": "July 6, 2018"
+      }
+    ]
+  },
+  {
+    "pageName": "Navbar",
+    "id": "navbar",
+    "category": [
+      {
+        "id": "logo",
+        "article": [
+          {
+            "image": [
+              {
+                "src": "../assets/img/logo/Logo-TonkaIn-Ok.jpg",
+                "link": "home",
+                "linkType": "internal"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
